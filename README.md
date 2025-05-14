@@ -14,11 +14,11 @@
 
 ## 📌 Featured Projects
 
-### 🎓 [Eduverse](https://github.com/Mariam-Eid-Mohamed/eduverse)
+### 🎓 [Eduverse](https://e-learning-platform-dppei-project.vercel.app/)
 A full-stack Udemy-style platform with authentication, dynamic courses, cart & checkout  
 Tech: React, Redux, Django REST API, JWT
 
-### 🎬 [Movie Recommendation Website](https://github.com/Mariam-Eid-Mohamed/movie-recommendation-app)
+### 🎬 [Movie Recommendation Website](https://movies-recommendations-mariam-eids-projects.vercel.app/)
 Personalized movie suggestions with user login & search  
 Tech: React, Bootstrap, Firebase Auth
 
@@ -26,7 +26,7 @@ Tech: React, Bootstrap, Firebase Auth
 A frontend-only CRUD web app with local storage  
 Tech: HTML, CSS, JavaScript, Bootstrap
 
-### 🌐 [Portfolio Template](https://github.com/Mariam-Eid-Mohamed/responsive-portfolio-template)
+### 🌐 [Portfolio Template](https://mariam-eid-mohamed.github.io/Portfolio-template/)
 Minimal, responsive, and JavaScript-free portfolio template
 
 ---
