@@ -22,7 +22,7 @@ Tech: React, Redux, Django REST API, JWT
 Personalized movie suggestions with user login & search  
 Tech: React, Bootstrap, Firebase Auth
 
-### 🧮 [Product Management System](https://github.com/Mariam-Eid-Mohamed/product-crud-frontend)
+### 🧮 [Product Management System](https://mariam-eid-mohamed.github.io/Product-Mangment-System/)
 A frontend-only CRUD web app with local storage  
 Tech: HTML, CSS, JavaScript, Bootstrap
 
