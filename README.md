@@ -8,7 +8,6 @@
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Redux, Bootstrap, JavaScript, HTML5, CSS3
-- **Backend**: Django REST Framework, JWT Auth
 - **Tools**: Git, GitHub, Postman, VSCode
 
 ---
