@@ -5,7 +5,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I enjoy building systems end-to-end — from designing user interfaces to engineering the data pipelines behind them.
 
@@ -17,7 +17,7 @@ I’m especially interested in how data flows through systems — from ingestion
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ### 📊 Data Engineering
 - **Flight Analytics Pipeline**
