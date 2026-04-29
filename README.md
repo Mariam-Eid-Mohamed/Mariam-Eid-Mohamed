@@ -1,51 +1,58 @@
 # Hi, I'm Mariam Eid 👋
 
-🎓 Computer Science student at Cairo University | 💻 Frontend Developer (React)  
-📍 Giza, Egypt | 🌐 Passionate about building beautiful, scalable web apps
+🎓 Computer Science Student @ Cairo University (Graduating May 2026)  
+💻 Frontend Engineer | 📊 Big Data Engineer  
+
+---
+
+## 🚀 What I Do
+
+I build **end-to-end systems** — from user-facing applications to scalable data pipelines.
+
+- 💻 Design and develop responsive, production-ready frontend applications using React & Next.js  
+- 📊 Build data pipelines using Kafka, Spark, and Airflow  
+- 🧠 Transform raw data into analytics-ready systems using Medallion Architecture  
+
+---
+
+## 🔥 Featured Work
+
+### 📊 Data Engineering Projects
+- **Flight Analytics Pipeline**
+  - Built end-to-end pipeline using Airflow, Snowflake, dbt
+  - Processed 20M+ records into analytics-ready models
+
+- **Customer Churn Pipeline**
+  - Streaming + batch ingestion (Kafka, NiFi, HDFS)
+  - Feature engineering with PySpark
+
+👉 Explore more: [Data Engineering Projects](#)
+
+---
+
+### 💻 Frontend Projects
+- **EduVerse (Full-Stack E-learning Platform)**
+  - React + Redux + Django API
+  - Authentication, cart, wishlist, checkout
+
+- **User Management System**
+  - Full CRUD + protected routes + form validation
+
+👉 Explore more: [Frontend Projects](#)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Redux, Bootstrap, JavaScript, HTML5, CSS3
-- **Tools**: Git, GitHub, Postman, VSCode
+### Data Engineering
+Kafka • Spark • Flink • Airflow • dbt • Snowflake • Hadoop
+
+### Frontend
+React • Next.js • TypeScript • Redux • Bootstrap • MUI
 
 ---
 
-## 📌 Featured Projects
+## 📫 Connect With Me
 
-### 🎓 [Eduverse](https://e-learning-platform-dppei-project.vercel.app/)
-A full-stack Udemy-style platform with authentication, dynamic courses, cart & checkout  
-Tech: React, Redux, Django REST API, JWT
-
-### 🎬 [Movie Recommendation Website](https://movies-recommendations-mariam-eids-projects.vercel.app/)
-Personalized movie suggestions with user login & search  
-Tech: React, Bootstrap, Firebase Auth
-
-### 🧮 [Product Management System](https://mariam-eid-mohamed.github.io/Product-Mangment-System/)
-A frontend-only CRUD web app with local storage  
-Tech: HTML, CSS, JavaScript, Bootstrap
-
-### 🌐 [Portfolio Template](https://mariam-eid-mohamed.github.io/Portfolio-template/)
-Minimal, responsive, and JavaScript-free portfolio template
-
----
-
-## 📈 What I'm Learning
-
-- Advanced React Patterns
-- TypeScript
-- UI/UX principles
-- Open source contribution
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: mariameid210@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/mariam-eid)  
-- 🧑‍💻 [GitHub](https://github.com/Mariam-Eid-Mohamed)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- LinkedIn: https://linkedin.com/in/mariam-eid  
+- Email: mariameid210@gmail.com  
