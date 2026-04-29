@@ -5,7 +5,6 @@
 
 ---
 
-## 🚀 What I Do
 ## 👩‍💻 About Me
 
 I enjoy building systems end-to-end — from designing user interfaces to engineering the data pipelines behind them.
