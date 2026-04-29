@@ -6,12 +6,15 @@
 ---
 
 ## 🚀 What I Do
+## 👩‍💻 About Me
 
-I build **end-to-end systems** — from user interfaces to scalable data pipelines.
+I enjoy building systems end-to-end — from designing user interfaces to engineering the data pipelines behind them.
 
-- 💻 Develop modern web apps using React & Next.js  
-- 📊 Build batch & streaming data pipelines (Kafka, Spark, Airflow)  
-- 🧠 Design data architectures (Medallion, Data Warehousing)
+I’ve worked on both sides:
+- creating responsive, production-ready frontend applications  
+- and building scalable data pipelines that power analytics  
+
+I’m especially interested in how data flows through systems — from ingestion to insight — and how that connects back to real user experiences.
 
 ---
 
