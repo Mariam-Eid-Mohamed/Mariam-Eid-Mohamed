@@ -7,48 +7,55 @@
 
 ## 🚀 What I Do
 
-I build **end-to-end systems** — from user-facing applications to scalable data pipelines.
+I build **end-to-end systems** — from user interfaces to scalable data pipelines.
 
-- 💻 Design and develop responsive, production-ready frontend applications using React & Next.js  
-- 📊 Build data pipelines using Kafka, Spark, and Airflow  
-- 🧠 Transform raw data into analytics-ready systems using Medallion Architecture  
+- 💻 Develop modern web apps using React & Next.js  
+- 📊 Build batch & streaming data pipelines (Kafka, Spark, Airflow)  
+- 🧠 Design data architectures (Medallion, Data Warehousing)
 
 ---
 
-## 🔥 Featured Work
+## 🔥 Featured Projects
 
-### 📊 Data Engineering Projects
+### 📊 Data Engineering
 - **Flight Analytics Pipeline**
-  - Built end-to-end pipeline using Airflow, Snowflake, dbt
-  - Processed 20M+ records into analytics-ready models
+  - Airflow + Snowflake + dbt
+  - 20M+ records processed into analytics models  
 
 - **Customer Churn Pipeline**
-  - Streaming + batch ingestion (Kafka, NiFi, HDFS)
-  - Feature engineering with PySpark
-
-👉 Explore more: [Data Engineering Projects](#)
+  - Kafka + NiFi + PySpark + Hive
+  - Real-time + batch data integration  
 
 ---
 
-### 💻 Frontend Projects
-- **EduVerse (Full-Stack E-learning Platform)**
-  - React + Redux + Django API
-  - Authentication, cart, wishlist, checkout
+### 💻 Frontend
+- **EduVerse (Full Stack E-learning)**
+  - React + Redux + Django API  
+  - Auth, cart, wishlist, checkout  
 
 - **User Management System**
-  - Full CRUD + protected routes + form validation
-
-👉 Explore more: [Frontend Projects](#)
+  - Full CRUD + protected routes + validation  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Data Engineering
-Kafka • Spark • Flink • Airflow • dbt • Snowflake • Hadoop
+### 📊 Data Engineering
+![Kafka](https://img.shields.io/badge/Kafka-000?style=flat&logo=apachekafka)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark)
+![Flink](https://img.shields.io/badge/Flink-E6522C?style=flat&logo=apacheflink)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat)
 
-### Frontend
-React • Next.js • TypeScript • Redux • Bootstrap • MUI
+---
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat)
 
 ---
 
